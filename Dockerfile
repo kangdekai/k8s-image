@@ -1,1 +1,1 @@
-FROM quay.io/strimzi/operator:0.39.0
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:1e9602791e76dc7556446ea1645b8721c853f747a59c7ef3d3f028510e0d5072
