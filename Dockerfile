@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative-kafka-broker-receiver:v1.7.1
+FROM quay.io/strimzi/operator:0.39.0
