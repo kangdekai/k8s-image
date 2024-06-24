@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker@sha256:84db786596618bb49bd864f6689e0447c7d4d795a7bd69e61f868b1b7747aa20
+FROM docker.io/karmada/karmada-controller-manager:v0.0.0-master
