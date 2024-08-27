@@ -1,1 +1,1 @@
-FROM rayproject/ray:2.34.0
+FROM docker.io/calico/node:v3.17.1
