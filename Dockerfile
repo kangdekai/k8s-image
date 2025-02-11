@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.5.1-cuda12.4-cudnn9-devel
+FROM ubuntu/python:3.12-24.04_stable
