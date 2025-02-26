@@ -1,1 +1,1 @@
-FROM rayproject/ray:2.41.0
+FROM redis:7.4.0
