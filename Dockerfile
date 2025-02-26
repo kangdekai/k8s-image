@@ -1,1 +1,1 @@
-FROM redis:7.4.0
+FROM quay.io/kuberay/operator:v1.2.2
